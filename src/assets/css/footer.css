@@ -1,0 +1,23 @@
+.footerContainer{
+    margin-top: 5vw !important;
+    width: 100% !important;
+    background: url(../img/footer/bg.svg) !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    padding: 10px 0px !important;
+}
+.footerCenterTypoShop{
+    padding-right: 40px !important;
+}
+.footerCenterTypoShopMore{
+    padding-right: 40px !important;
+    margin-top: 1vw !important;
+}
+.contactTitle{
+    margin-bottom: 1vw !important;
+    margin-right: 2vw !important;
+}
+.contactDes{
+    margin-right: 0.5vw !important;
+    margin-top: 0.5vw !important;
+}
